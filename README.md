@@ -84,4 +84,4 @@
 
 Бесплатный пробив служит хорошей отправной точкой для любого OSINT-исследования, будь то [поиск по Twitter](https://github.com/osint-and-search/OSINT_i_poisk_v_X-Twitter), [Twitch](https://github.com/osint-and-search/OSINT_i_poisk_v_Twitch) или [YouTube](https://github.com/osint-and-search/OSINT_i_poisk_v_YouTube). Он доступен каждому и не требует финансовых вложений — только времени и умения работать с открытыми данными. Используйте бесплатные инструменты ответственно, фиксируйте найденные доказательства и комбинируйте разные подходы — тогда пробив без оплаты может оказаться не менее эффективным, чем платные аналоги.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
